@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImgurUploader</string>
+
+    <string name="upload_button_text">Select image and upload</string>
+
+    <string name="select_image_error">Failed to load image</string>
+    <string name="upload_success">Successfully uploaded</string>
+    <string name="upload_error">Error during upload</string>
+</resources>
